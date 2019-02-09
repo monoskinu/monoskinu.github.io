@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monoski.nu
+title: Monoski.nu
 activeMenu: none
 ---
 <img src="/img/widemonoski.png" class="img-fluid" alt="Picture of monoski"/>
