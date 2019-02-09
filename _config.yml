@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Don't split your ride in two. 
   Make monoski greate again. 
   ----------
-  Everything worth to know about monoski. 
+  Everything worth knowing about monoski. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.monoski.nu" # the base hostname & protocol for your site, e.g. http://example.com
 

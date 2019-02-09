@@ -7,9 +7,12 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
-            <li {% if page.activeMenu == 'About' %} class="active nav-item" {% else %} class="nav-item" {% endif %}>
-              <a class="nav-link" href="{{ "/About" | prepend: site.baseurl }}">About</a>
-            </li>
+              <li {% if page.activeMenu == 'Manufacturers' %} class="active nav-item" {% else %} class="nav-item" {% endif %}>
+                  <a class="nav-link" href="{{ "/Manufacturers" | prepend: site.baseurl }}">Manufacturers</a>
+                </li>
+              <li {% if page.activeMenu == 'About' %} class="active nav-item" {% else %} class="nav-item" {% endif %}>
+                  <a class="nav-link" href="{{ "/About" | prepend: site.baseurl }}">About</a>
+              </li>
           </ul>
         </div>
     </nav>

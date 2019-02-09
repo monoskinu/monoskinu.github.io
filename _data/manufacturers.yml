@@ -1,0 +1,59 @@
+- name: Duret
+  website: http://www.duretskis.com
+  description: >
+    Duret is a french ski manufacturer who has manufactured monoskis from the 1970s 
+    until today. Has during the latest year shortened there list of models and are producing 
+    three models of monoskis during the season 2018/2019. 
+- name: Snowgunz
+  website: https://www.snowgunz.com
+  description: > 
+    Snowgunz has it's shop in Chamonix. The owner of the shop is Pierre-Francois "Pif" Brun 
+    who created the brand in 2011. 
+- name: CODA
+  website: https://www.codaboards.com/
+  description: > 
+    CODA is based in California and has it's history in "Yama Board and Ski Company" from the 1980s. 
+    Today Chad Houck is president of CODA and manufactures a long list of models of custom monoskis. 
+- name: Les Shapers Alpins
+  website: https://shapersalpins.com/
+  description: > 
+    Les Shapers Alpins is a french ski manufacturer who produces five models of monoskis who 
+    is possible to get in two different construction materials. You chose by yourself if you 
+    want your monoski with ALUFLEX or FIBERFLEX. 
+- name: White Knuckle Monoskis
+  website: http://www.whiteknucklemonoskis.com
+  description: > 
+    White Knuckle Monoskis was founded in 1996 by Scott Gordon and is today owned by Erik Larson, Scott Hicks and Pete Maskiell. 
+    There monoskis in produced in Colorado and there two models of monoskis 
+    are made with all sorts of crazy, funny and cool designs. 
+- name: Donek
+  website: https://www.donek.com
+  description: > 
+    Donek is a snowboard manufacturer based in Colorado who makes gears for olympic athletes. 
+    There offer one model of monoski and custom made boards and skis. 
+- name: BestBoard
+  website: https://monoskiswedenshop.blogspot.com/2017/12/bestboard-2018.html
+  description: > 
+    BestBoard offers one model witch is called Nirvana. BestBoard was created 2017 by Jean-Philippe Thevenod 
+    in France after he left Duret as monoski builder. 
+- name: Boheme
+  website: http://www.boheme.fr
+  description: > 
+    Boheme has produced snowboard since 1998. 2013 the company acquired a factory in Chabeuil, they 
+    build hand made snowboard, skis, waterskis, paddles and has one model of monoski. There production is 
+    about 1000 skies a year. 
+- name: Hattori Hanzo Monoskis
+  website: https://www.facebook.com/hattorihanzomonoski/
+  description: > 
+    Hattori Hanzo Monoskis was created by Tom Mammuth 2014 in La Grave. It stared with one model 
+    and now they test there skis in La Grave and offer six models of monoskis. 
+- name: Opera Skis
+  website: http://www.operaskis.com
+  description: > 
+    Opera Skis is a Italien ski manufacture who has presented a prototyp of a monoski witch is being test 
+    during the season 18/19. 
+- name: Faction Skis
+  website: https://factionskis.com
+  description: > 
+    Faction skis created there first and only monoski in 2011. They are famous for there skis and 
+    have announced that a new monoski will be released 2020. 
