@@ -1,14 +1,3 @@
-- name: Duret
-  website: http://www.duretskis.com
-  description: >
-    Duret is a french ski manufacturer who has manufactured monoskis from the 1970s 
-    until today. Has during the latest year shortened there list of models and are producing 
-    three models of monoskis during the season 2018/2019. 
-- name: Snowgunz
-  website: https://www.snowgunz.com
-  description: > 
-    Snowgunz has it's shop in Chamonix. The owner of the shop is Pierre-Francois "Pif" Brun 
-    who created the brand in 2011. 
 - name: CODA
   website: https://www.codaboards.com/
   description: > 
@@ -43,7 +32,7 @@
     build hand made snowboard, skis, waterskis, paddles and has one model of monoski. There production is 
     about 1000 skies a year. 
 - name: Hattori Hanzo Monoskis
-  website: https://www.facebook.com/hattorihanzomonoski/
+  website: https://hattori-hanzo.at
   description: > 
     Hattori Hanzo Monoskis was created by Tom Mammuth 2014 in La Grave. It stared with one model 
     and now they test there skis in La Grave and offer six models of monoskis. 
@@ -57,3 +46,8 @@
   description: > 
     Faction skis created there first and only monoski in 2011. They are famous for there skis and 
     have announced that a new monoski will be released 2020. 
+- name: Snowgunz
+  website: https://www.snowgunz.com
+  description: > 
+    Snowgunz has it's shop in Chamonix. The owner of the shop is Pierre-Francois "Pif" Brun 
+    who created the brand in 2011. 
